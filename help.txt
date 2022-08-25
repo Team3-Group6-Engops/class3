@@ -6,3 +6,4 @@ du -h
 echo "Hello Engr Annick"
 echo "explaining git pull"
 working from somewhere else
+another line
