@@ -3,3 +3,4 @@ free -m
 free -g
 df -h
 du -h
+echo "Hello Engr Annick"
